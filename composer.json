@@ -1,0 +1,24 @@
+{
+    "name": "norieli/laravel-ueditor",
+    "description": "for laravel api, use baidu ueditor, with aliyun oss.",
+    "keywords": ["aliyun", "oss", "laravel", "api", "ueditor"],
+    "type": "l",
+    "require": {
+        "php": ">=7.0",
+        "jacobcyl/ali-oss-storage": "^2.1"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "norieli",
+            "email": "norieli@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Norie\\Laravel\\UE\\": "src/"
+        }
+    }
+
+}
