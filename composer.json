@@ -7,7 +7,7 @@
         "php": ">=7.0",
         "jacobcyl/ali-oss-storage": "^2.1"
     },
-    "license": "Apache",
+    "license": "MIT",
     "authors": [
         {
             "name": "norieli",
